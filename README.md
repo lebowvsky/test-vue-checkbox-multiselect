@@ -1,24 +1,7 @@
 # test-vue-checkbox-multiselect
 
-## Project setup
-```
-npm install
-```
+## why ?
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Test a MultiSelect Checkbox (A checkbox to rule them all)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+In a list, the header checkbox rule the checkbox of all children...
